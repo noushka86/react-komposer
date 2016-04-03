@@ -4,7 +4,7 @@
   "description": "Compose React containers and feed data into components.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kadirahq/react-komposer.git"
+    "url": "https://github.com/noushka86/react-komposer.git"
   },
   "license": "MIT",
   "options": {
